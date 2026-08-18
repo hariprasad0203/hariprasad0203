@@ -34,7 +34,7 @@
 
 **[🚗 Rento](https://github.com/hariprasad0203/<repo>)** — A vehicle rental and booking management app with a Java front-end and MongoDB for data storage.
 
-**[⚡ Pixabuild](https://github.com/hariprasad0203/<repo>)** — *(In progress)* A website that uses generative AI, currently under development.
+**[⚡ Pixabuild](https://github.com/hariprasad0203/<https://github.com/hariprasad0203/PIXABUILD>)** — *(In progress)* A website that uses generative AI, currently under development.
 
 ---
 
